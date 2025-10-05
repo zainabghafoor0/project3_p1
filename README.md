@@ -10,7 +10,7 @@ This repository implements a **text tokenizer (Scanner)** for Part 1 of the Huff
 
 ## Collaboration & Sources
 
-* **Work:** All code in `Scanner.cpp` written and tested independently
+* **Work:** All code in `Scanner.cpp` written and tested independently. Also, few modification in `main.cpp`
 * **Starter Code:** `main.cpp`, `utils.cpp/.hpp` provided by instructor (Professor Kooshesh)
 * **Bug Fix:** Corrected `main.cpp` line 32 to pass input file path instead of output file path to Scanner constructor
 
