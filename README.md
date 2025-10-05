@@ -127,18 +127,3 @@ their
 melody
 foretells
 ```
-
-## Testing Results
-
-Tested successfully with sample files on blue:
-- `TheBells.txt` - ✓ Passed
-- `call_of_the_wild.txt` - ✓ Passed
-- All outputs match reference `.tokens` files
-
-No compilation warnings with `-Wall` flag.
-
----
-
-**Course:** CS 315 - Fall 2025  
-**Instructor:** Professor Ali Kooshesh  
-**Assignment:** Project 3, Part 1
