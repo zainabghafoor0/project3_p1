@@ -62,30 +62,6 @@ Or with any other input file:
 cat input_output/TheBells.tokens
 ```
 
-**Note:** Input files must be in the `input_output/` directory. Pass only the filename, not the full path.
-
-### Testing on Blue
-
-**One-time setup:**
-
-```bash
-# Copy test scripts
-cp /home/faculty/kooshesh/cs315_f2025_p3_part1/compile_and_test.bash .
-cp /home/faculty/kooshesh/cs315_f2025_p3_part1/copy_files.bash .
-
-# Copy sample input files to input_output/
-bash copy_files.bash
-```
-
-**Run automated test:**
-
-```bash
-bash compile_and_test.bash TheBells.txt
-```
-
-This compiles, runs, and compares output against reference files in:  
-`/home/faculty/kooshesh/cs315_f2025_p3_part1/part1_tokens_files/`
-
 **Manual comparison:**
 
 ```bash
