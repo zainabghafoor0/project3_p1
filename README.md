@@ -49,13 +49,17 @@ g++ -std=c++20 -Wall *.cpp -o huffman_part1
 ### Execution
 
 ```bash
-./huffman_part1 TheBells.txt
+./huffman_part1 input_output/TheBells.txt
 ```
 
 Or with any other input file:
 
 ```bash
-./huffman_part1 call_of_the_wild.txt
+./huffman_part1 input_output/call_of_the_wild.txt
+```
+### Show output:
+```bash
+cat input_output/TheBells.tokens
 ```
 
 **Note:** Input files must be in the `input_output/` directory. Pass only the filename, not the full path.
