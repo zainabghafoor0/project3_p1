@@ -2,7 +2,7 @@
 
 **Name:** Zainab Ghafoor  
 **ID:** 008259427  
-**GitHub repository link:** [[https://github.com/zainabghafoor0/projec](https://github.com/zainabghafoor0/project3_p1.git)]
+**GitHub repository link:** [[https://github.com/zainabghafoor0/project3_p1.git](https://github.com/zainabghafoor0/project3_p1.git)]
 
 ## Project Description
 
