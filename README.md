@@ -89,7 +89,7 @@ This compiles, runs, and compares output against reference files in:
 **Manual comparison:**
 
 ```bash
-diff -u input_output/TheBells.tokens /home/faculty/kooshesh/cs315_f2025_p3_part1/part1_tokens_files/TheBells.tokens
+diff -u input_output/call_of_the_wild.tokens /home/faculty/kooshesh/cs315_f2025_p3_part1/part1_tokens_files/call_of_the_wild.tokens
 ```
 
 ## Sample Output
