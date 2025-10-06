@@ -10,9 +10,8 @@ This repository implements a **text tokenizer (Scanner)** for Part 1 of the Huff
 
 ## Collaboration & Sources
 
-* **Work:** All code in `Scanner.cpp` written and tested independently. Also, few modification in `main.cpp`
-* **Starter Code:** `main.cpp`, `utils.cpp/.hpp` provided by instructor (Professor Kooshesh)
-* **Bug Fix:** Corrected `main.cpp` line 32 to pass input file path instead of output file path to Scanner constructor
+* **Work:** All code in `Scanner.cpp` written and tested independently. Minor modifications in `main.cpp` file
+* **Starter Code:** `main.cpp`, `utils.cpp/.hpp`
 
 ## Implementation Details
 
@@ -61,8 +60,13 @@ Or with any other input file:
 ```bash
 cat input_output/TheBells.tokens
 ```
+For input call_of_the_wild.txt file:
 
-## Sample Output
+```bash
+./huffman_part1 input_output/call_of_the_wild.tokens
+```
+
+## Sample Input and Output
 
 **Input:** `input_output/TheBells.txt` (excerpt)
 ```
