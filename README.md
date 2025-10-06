@@ -6,7 +6,7 @@
 
 ## Project Description
 
-This repository implements a **text tokenizer (Scanner)** for Part 1 of the Huffman Coding project. The scanner reads `.txt` files and extracts words according to specific tokenization rules. **Valid tokens** are sequences of letters (a-z, A-Z) with optional internal apostrophes, all converted to lowercase. **Separators** include digits, punctuation, hyphens/dashes, whitespace, and non-ASCII characters. The output is written one token per line to `input_output/<basename>.tokens`.
+This repository implements a **text tokenizer (Scanner)** for Part 1 of the Huffman Coding project. The scanner reads `.txt` files and extracts words according to specific tokenization rules. **Valid tokens** are sequences of letters (a-z, A-Z) with optional internal apostrophes, all converted to lowercase. **Separators** include digits, punctuation, hyphens/dashes, whitespace, and non-ASCII characters. The output is written one token per line to `input_output/<basename>.tokens`. Here I tested for two files `call_of_the_wild.txt/tokens` and `TheBells.txt/tokens`
 
 ## Collaboration & Sources
 
@@ -60,7 +60,7 @@ Or with any other input file:
 ```bash
 cat input_output/TheBells.tokens
 ```
-For input call_of_the_wild.txt file:
+For input `call_of_the_wild.txt` file:
 
 ```bash
 ./huffman_part1 input_output/call_of_the_wild.tokens
